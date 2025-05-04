@@ -73,6 +73,8 @@ YCA connects to a **MySQL** database using JDBC. Tax data is securely stored and
 - **CSV Export:** Uses the OpenCSV library to export structured tax data for reporting or submission.
 
 ---
+For better understanding and reference, I have also uploaded a detailed project presentation (PPT) and a project report (PDF) in the repository. These documents explain the system architecture, implementation flow, and technical decisions made throughout the development process.
+
 
 ## 👨‍💻 Developed By
 
